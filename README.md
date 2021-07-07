@@ -1,25 +1,7 @@
 #Problems
-###Problem Difficulty
-<<<<<<< HEAD
-###Easy
+### [Easy](/EasyProblems.md) | [Medium](/MediumProblems.md)   |    [Hard](/HardProblems.md)
 
-###Medium
-
-1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/):
-
-   Maximization, Choice to include, could use dp to solve the problem.
-    
-   [Solution](src/com/algorhythm/medium/list/LongestIncreasingSubsequence.java)
-
-2. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/):
-
-   Classic knapsack problem, where we have to fill the sack of size with choice of items from array.
-   
-   - [Brute-force](find the item with reducing sum in the sub array)
-   - DP
-
-=======
->>>>>>> parent of ee49b60... read me
+## <u>By Topics</u>
 ### String
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
@@ -35,7 +17,6 @@
 | 4 | [RomanToInteger](https://leetcode.com/problems/roman-to-integer/) | [Solution](src/com/algorhythm/easy/number/RomanToInteger.java) |
 
 ### Array
-<<<<<<< HEAD
 
 |     | Problems      | Solutions     |
 | --- | ------------ |--------------|
@@ -59,7 +40,8 @@
 | 1 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](src/com/algorhythm/medium/tree/BinaryTreeZigzagLevelOrderTraversal.java) |
 | 2 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](src/com/algorhythm/easy/tree/TwoSumIVBST.java) |
 | 3 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/com/algorhythm/easy/tree/MaxDepthBinaryTree.java) |
-=======
+
+### Matrix
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
 | 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](src/com/algorhythm/easy/array/FloodFill.java) |
@@ -68,4 +50,3 @@
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
 | 1 | [Intersection Of two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](src/com/algorhythm/easy/list/IntersectionOfTwoLinkedList.java) |
->>>>>>> parent of ee49b60... read me
