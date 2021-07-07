@@ -2,13 +2,17 @@
 ### [Easy](/EasyProblems.md) | [Medium](/MediumProblems.md)   |    [Hard](/HardProblems.md)
 
 ## <u>By Topics</u>
+
 ### String
+
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
 | 1 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution](src/com/algorhythm/easy/string/BuddyStrings.java) |
 | 2 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution](src/com/algorhythm/easy/string/CheckIfStringsAreEquivalent.java) |
 | 3 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](src/com/algorhythm/easy/string/JewelsAndStones.java) |
+
 ### Number
+
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
 | 1 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](src/com/algorhythm/easy/number/ReduceNumberToZero.java) |
@@ -42,11 +46,7 @@
 | 3 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/com/algorhythm/easy/tree/MaxDepthBinaryTree.java) |
 
 ### Matrix
+
 |   | Problems      | Solutions     |
 |:--- |: ------------- |:-------------:|
 | 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](src/com/algorhythm/easy/array/FloodFill.java) |
-
-### LinkedList
-|   | Problems      | Solutions     |
-|:--- |: ------------- |:-------------:|
-| 1 | [Intersection Of two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](src/com/algorhythm/easy/list/IntersectionOfTwoLinkedList.java) |
