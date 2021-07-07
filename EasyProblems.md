@@ -26,12 +26,14 @@ Refer: https://leetcode.com/problems/two-sum <br>
    Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
    
    Refer: https://leetcode.com/problems/merge-two-sorted-lists/ <br>
-   [Solution](src/com/algorhythm/easy/list/MergeTwoSortedLists.java)
+   [Solution](src/com/algorhythm/easy/list/MergeTwoSortedLists.java){:target="_blank" rel="noopener"}
 
 ####6. Merge Sorted Array
    You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.<br>
    Refer: https://leetcode.com/problems/merge-sorted-array/ <br>
    [Solution](src/com/algorhythm/easy/list/MergeSortedArray.java)
+
+   ``````
 
 ####7. Binary Tree Inorder Traversal
    Given the root of a binary tree, return the inorder traversal of its nodes' values. <br>
