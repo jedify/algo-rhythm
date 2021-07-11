@@ -2,17 +2,13 @@ package com.algorhythm.easy.tree;
 
 import com.algorhythm.structure.TreeNode;
 
-public class MinDepth {
+public class MinDepthOfBinaryTree {
   public static void main(String[] args) {
     TreeNode tNode = new TreeNode(1);
-   /* tNode.left = new TreeNode(2);
-    tNode.left.left = new TreeNode(3);
-    tNode.left.left.left = new TreeNode(4);*/
-
     tNode.right = new TreeNode(2);
     tNode.right.right = new TreeNode(3);
     tNode.right.right.right = new TreeNode(4);
-    System.out.println(new MinDepth().minDepth(tNode));
+    System.out.println(new MinDepthOfBinaryTree().minDepth(tNode));
   }
   public int minDepth(TreeNode root) {
     if(root.left== null && root.right == null) {

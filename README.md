@@ -1,6 +1,6 @@
 # Problems
 
-### [Easy](/EasyProblems.md) | [Medium](/MediumProblems.md)   |    [Hard](/HardProblems.md)
+### [Easy](/documents/EasyProblems.md) | [Medium](/documents/MediumProblems.md)   |    [Hard](/documents/HardProblems.md)
 
 ## <u>By Topics</u>
 
@@ -45,9 +45,19 @@
 | 1 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](src/com/algorhythm/medium/tree/BinaryTreeZigzagLevelOrderTraversal.java) |
 | 2 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](src/com/algorhythm/easy/tree/TwoSumIVBST.java) |
 | 3 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/com/algorhythm/easy/tree/MaxDepthBinaryTree.java) |
+| 4 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](src/com/algorhythm/easy/tree/BalancedBinaryTree.java) |
+| 5 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](src/com/algorhythm/easy/tree/MinDepthOfBinaryTree.java) |
+| 6 | [Binary Tree Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](src/com/algorhythm/easy/tree/PathSum.java) |
 
 ### Matrix
 
 |   | Problems      | Solutions        |
 |--- | ------------- |-------------|
 | 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](src/com/algorhythm/easy/array/FloodFill.java) |
+
+### Maximization
+
+|   | Problems      | Solutions        |
+|--- | ------------- |-------------|
+| 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](src/com/algorhythm/easy/array/BestTimeToBuyAndSellStock.java) |
+
