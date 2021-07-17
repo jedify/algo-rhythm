@@ -189,3 +189,15 @@
    Refer: https://leetcode.com/problems/min-stack/ <br>
    [Solution](../src/com/algorhythm/easy/list/MinStack.java)
    </details>   
+
+15. #### Climb Stairs
+   You are climbing a staircase. It takes n steps to reach the top.
+   <br>
+   Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+   <details>
+   <summary> Hint/ Solution Detail </summary>
+   
+   Refer: https://leetcode.com/problems/climbing-stairs/ <br>
+   [Solution](../src/com/algorhythm/dp/ClimbStairs.java)
+   </details>   
+   
