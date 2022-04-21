@@ -180,9 +180,6 @@
    - int top() gets the top element of the stack.<br>
    - int getMin() retrieves the minimum element in the stack.<br>
    ```
-
-   There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.<br>
-   
    <details>
    <summary> Hint/ Solution Detail </summary>
    
@@ -200,4 +197,25 @@
    Refer: https://leetcode.com/problems/climbing-stairs/ <br>
    [Solution](../src/com/algorhythm/dp/ClimbStairs.java)
    </details>   
+
+16. #### Next Greater Element I
+   The next greater element of some element x in an array is the first greater element that is to the right of x in the same array.<br>
+   You are given two distinct 0-indexed integer arrays nums1 and nums2, where nums1 is a subset of nums2.<br>
+   For each 0 <= i < nums1.length, find the index j such that nums1[i] == nums2[j] and determine the next greater element of nums2[j] in nums2. If there is no next greater element, then the answer for this query is -1.<br>
+   Return an array ans of length nums1.length such that ans[i] is the next greater element as described above.<br>
+   <details>
+   <summary> Hint/ Solution Detail </summary>
    
+   Refer: https://leetcode.com/problems/next-greater-element-i/ <br> 
+   [Solution](../src/com/algorhythm/easy/array/NextGreaterElement.java)
+   </details>
+
+17. Maximum Average Subarray I
+    You are given an integer array nums consisting of n elements, and an integer k.<br>
+    Find a contiguous subarray whose length is equal to k that has the maximum average value and return this value. Any answer with a calculation error less than 10-5 will be accepted.
+    <details>
+    <summary> Hint/ Solution Detail </summary>
+
+    Refer: https://leetcode.com/problems/maximum-average-subarray-i/ <br>
+    [Solution](../src/com/algorhythm/easy/array/MaximumAverageSubarrayI.java)
+    </details>

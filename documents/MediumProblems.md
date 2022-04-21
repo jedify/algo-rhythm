@@ -59,3 +59,45 @@
    Refer: https://leetcode.com/problems/product-of-array-except-self/ <br>
    [Solution](../src/com/algorhythm/medium/list/ProductOfArrayExceptSelf.java)
    </details>
+6. Minimum Path Sum
+   Given an m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.<br>
+   
+   Note: You can only move either down or right at any point in time.
+   ![img.png](images/minumpathsum.png)
+    <details>
+   <summary> Hint/ Solution Detail </summary>
+
+   Refer: https://leetcode.com/problems/minimum-path-sum/ <br>
+   [Solution](../src/com/algorhythm/medium/dp/MinimumPathSum.java)
+   </details>
+7. Jump Game
+   Given an array of non-negative integers nums, you are initially positioned at the first index of the array.<br>
+   Each element in the array represents your maximum jump length at that position.<br><br>
+   Determine if you are able to reach the last index.
+    <details>
+   <summary> Hint/ Solution Detail </summary>
+
+   Refer: https://leetcode.com/problems/jump-game/ <br>
+   [Solution](../src/com/algorhythm/medium/dp/JumpGame.java)
+   </details>
+
+8. #### Subarray Sum Equals K
+   Given an array of integers nums and an integer k, return the total number of continuous subarrays whose sum equals to k. <br>
+
+    <details>
+    <summary> Hint/ Solution Detail </summary>
+
+   Refer: https://leetcode.com/problems/subarray-sum-equals-k/ <br>
+   [Solution](../src/com/algorhythm/medium/list/SumSumEqualsK.java)
+    </details>   
+
+9. #### Maximum Product Subarray
+   Given an integer array nums, find a contiguous non-empty subarray within the array that has the largest product, and return the product.<br>
+   It is guaranteed that the answer will fit in a 32-bit integer.<br>
+   A subarray is a contiguous subsequence of the array.<br>
+   <details>
+   <summary> Hint/ Solution Detail </summary>
+
+   Refer: https://leetcode.com/problems/maximum-product-subarray/<br>
+   [Solution](../src/com/algorhythm/medium/dp/MaximumProductSubarray.java)
+   </details> 

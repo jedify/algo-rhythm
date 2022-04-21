@@ -2,8 +2,13 @@
 
 1. First Missing Positive
    
-    Given an unsorted integer array nums, find the smallest missing positive integer.
+    Given an unsorted integer array nums, find the smallest missing positive integer.<br>
+    <details>
+    <summary> Hint/ Solution Detail </summary>
+
+    Refer: https://leetcode.com/problems/trapping-rain-water/ <br>
     [Solution](../src/com/algorhythm/hard/array/FirstMissingPositive.java)
+    </details>   
    
 2.  Insert Delete GetRandom O(1) - Duplicates allowed
 
@@ -32,3 +37,30 @@
     Refer: https://leetcode.com/problems/trapping-rain-water/ <br>
     [Solution](../src/com/algorhythm/hard/array/TrappingRainWater.java)
     </details>   
+
+4. Design In-Memory File System
+    Design a data structure that simulates an in-memory file system.
+
+    Implement the FileSystem class:
+    
+    **FileSystem()** Initializes the object of the system.<br>
+    **_List<String> ls(String path)_**<br>
+    - If path is a file path, returns a list that only contains this file's name.<br>
+    - If path is a directory path, returns the list of file and directory names in this directory.<br>
+    - *The answer should in lexicographic order.<br>
+    
+    _**void mkdir(String path)**_<br> 
+    - Makes a new directory according to the given path. The given directory path does not exist. If the middle directories in the path do not exist, you should create them as well.<br>
+    
+    **_void addContentToFile(String filePath, String content)_**<br>
+    - If filePath does not exist, creates that file containing given content.<br>
+    - If filePath already exists, appends the given content to original content.<br>
+    
+    _**String readContentFromFile(String filePath)**_ <br>
+    - Returns the content in the file at filePath.<br>
+    <details>
+    <summary> Hint/ Solution Detail </summary>
+
+    Refer: https://leetcode.com/problems/design-in-memory-file-system/ <br>
+    [Solution](../src/com/algorhythm/hard/FileSystem.java)
+    </details>
